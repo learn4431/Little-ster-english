@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Little Star English - Pronunciation Coach",
+  "description": "An interactive English learning app for elementary students. Practice pronunciation with AI scoring, vocabulary management, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
